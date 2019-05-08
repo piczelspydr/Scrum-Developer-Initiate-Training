@@ -1,2 +1,1 @@
-# Scrum-Developer-Initiate-Training
-Scrum developer training
+# Scrum Developer Training
