@@ -1,6 +1,6 @@
 ---
 title: Scrum Developer Training
-description: Training a graduate to a level of software developer in a Scrum team
+description: From graduate to a level of software developer in a Scrum team
 ---
 
 ## The Initiate Level
