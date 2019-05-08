@@ -6,15 +6,20 @@ description: From graduate to a level of software developer in a Scrum team
 ## The Initiate Level
 
 * Introduction
-* The foundation of computer programming
-* Understanding program structure
-* An introduction to objects and classes
-* Project 1 - Basic algorithm design and program development
-* A Guidance of Scrum and its core values
+* The Foundation of Computer Programming
+* Understanding Program Structure
+* An Introduction to Objects and Classes
+* Inheritance, Interfaces and Linked Objects
+* Project 1 - Basic Algorithm Design and Program Development
+* A Guidance of Scrum and Its Core Values
 * Self Discipline
 * Project 2 - The Iniate Trials
 
 ## The Padawan Level
 
-* Not Yet Confirmed
+* SOLID Principles
+* Clean Coding
+* Creative Coding
+* Inspiration and Drive
+* Not Yet Complete
 * Final Project - The Padawan Trials
