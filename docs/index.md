@@ -8,8 +8,8 @@ Training and Tests for an Initiate Scrum Developer, inspired by The Jedi Path.
 ## The Path
 
 ### The Initiate Level
-* Introduction
-* The Foundation of Computer Programming
+* [Introduction](introduction.md)
+* [The Foundation of Computer Programming](foundation_of_computer_programming.md)
 * Understanding Program Structure
 * An Introduction to Objects and Classes
 * Inheritance, Interfaces and Linked Objects
